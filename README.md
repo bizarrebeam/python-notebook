@@ -1,2 +1,2 @@
 # python-notebook
-archive of her first dive into programming through python
+archive of her first scratch into programming through python.
